@@ -1,3 +1,3 @@
 # An Analysis of Kickstarter Campaigns
-Analyzed the Kickstarter Campaign using differen types of data.
-![Parent Category Outcome Table](Parent Category Outcome Table.svg)
+1. Analyzed the Kickstarter Campaign using differen types of data.
+2. ![Parent Category Outcome Table](Parent Category Outcome Table.svg)
